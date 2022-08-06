@@ -1,8 +1,8 @@
-import {getUser} from  'users.js'
-import {getRepositories} from 'repositories.js'
-import {getEvents} from 'events.js'
-import {user} from 'user.js'
-import {screen} from 'screen.js'
+import {getUser} from  '/users.js'
+import {getRepositories} from '/repositories.js'
+import {getEvents} from '/events.js'
+import {user} from '/user.js'
+import {screen} from '/screen.js'
 
 
 document.getElementById('btn-search').addEventListener('click', () =>{

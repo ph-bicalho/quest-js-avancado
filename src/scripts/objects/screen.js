@@ -11,9 +11,8 @@ const screen = {
                                     <p>👥 Seguidores ${user.followers} </p>
                                     <p>👤 Seguindo ${user.following} </p>
                                  </div>
-                                           
                              </div> 
-                         </div> `
+                         </div>`
 
         let repositoriesItens= ''
         user.repositories.forEach(repo => repositoriesItens += `<li><a href="${repo.html_url}" target="_blank"  
