@@ -32,4 +32,4 @@ Você precisa mostrar também:
 
  
 
- <div style="text-align:center"><h2> link para  o desafio: </h2><a href>Clique aqui para ver no github pages. </a></div>
+ <div style="text-align:center"><h2> link para  o desafio: </h2><a href="https://ph-bicalho.github.io/quest-js-avancado/">Clique aqui para ver no github pages. </a></div>
