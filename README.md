@@ -20,7 +20,9 @@ digite o nome de usuário do github no campo de pesquisa e obtenha os dados do p
 Além de trazer:
 - Nome do repositório ✔
 - Link do repositório ✔
-Você precisa mostrar também
+
+Você precisa mostrar também:
+
 - Quantidade de forks do repositório ✔
 - Quantidade de estrelas do repositório ✔
 - Quantidade de watchers do repositório ✔
